@@ -53,16 +53,12 @@
 
 ## Competition Highlights
 
-| Achievement | Result |
-| --- | --- |
-| UM CodeFest | Champion |
-| Google KitaHack 2026 | 1st Runner Up |
-| UM MakerXpreneur 2026 | 1st Runner Up |
-| UMSprouts 6.0: Entrepreneurial Talent Scouting | Top 4 Finalist |
-| Matrix eXTRA Quiz Challenge MeX-Q (Mathematics) | Bronze |
-| National Statistics Competition 2024 (NSC) | Round 1 Top 80 Finalist |
-| Pertandingan Kuiz Sejarah dan Patriostisme 2023 Peringkat Kedah | Champion |
-| 50th Malaysian Buddhist Examination 2023 | 1st Runner Up |
+| Achievement | Year | Result |
+| --- | --- | --- |
+| UMSprouts 6.0: Entrepreneurial Talent Scouting | 2026 | Top 4 Finalist |
+| UM MakerXpreneur | 2026 | 1st Runner Up |
+| Google KitaHack | 2026 | 1st Runner Up |
+| UM CodeFest | 2026 | Champion |
 
 ## GitHub Pulse
 
