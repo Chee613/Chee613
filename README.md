@@ -60,28 +60,13 @@
 | Google KitaHack | 2026 | 1st Runner Up |
 | UM CodeFest | 2026 | Champion |
 
-## GitHub Pulse
-
-<p align="center">
-  <img height="160" alt="Tan Chee Keat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Chee613&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chee613&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Chee613&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Chee613&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
-</p>
-
 ## Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chee613/Chee613/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chee613/Chee613/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chee613/Chee613/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chee613/Chee613/output/github-contribution-grid-snake-dark.svg?v=pink-arena-20260519" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chee613/Chee613/output/github-contribution-grid-snake.svg?v=pink-arena-20260519" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chee613/Chee613/output/github-contribution-grid-snake.svg?v=pink-arena-20260519" />
   </picture>
 </p>
 
