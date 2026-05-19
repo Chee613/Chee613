@@ -32,7 +32,7 @@
 | **iSuara**<br/>Offline ML Sign Language Interpreter<br/><sub>Google KitaHack 2026 - 1st Runner Up</sub> | Offline sign-to-voice Android app powered by a BiLSTM model with **94.93% accuracy** and **28ms latency**. | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" /> <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" /> <img alt="LiteRT" src="https://img.shields.io/badge/LiteRT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img alt="Gemini" src="https://img.shields.io/badge/Gemini%203.1%20Flash%20Lite-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img alt="Google TTS" src="https://img.shields.io/badge/Google%20TTS-4285F4?style=flat-square&logo=google&logoColor=white" /> |
 | **Ezbill**<br/>AI-Powered MyInvois Compliance Assistant<br/><sub>UM CodeFest - Champion</sub> | AI receipt-to-invoice assistant that extracts OCR data, formats MyInvois JSON, and validates LHDN compliance. | <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React%20%2F%20JSX-61DAFB?style=flat-square&logo=react&logoColor=111111" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="JamAI Base" src="https://img.shields.io/badge/JamAI%20Base-111827?style=flat-square" /> <img alt="Gemini" src="https://img.shields.io/badge/Gemini%202.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img alt="Qwen3" src="https://img.shields.io/badge/Qwen3-1E40AF?style=flat-square" /> |
 | **Phonix**<br/>E-Waste Upcycling IoT Modular<br/><sub>UM MakerXpreneur 2026 - 1st Runner Up; UMSprouts 6.0 - Top 4 Finalist</sub> | E-waste IoT system that turns damaged smartphones into 24/7 CCTV and fire-alert modules with real-time mobile alerts. | <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img alt="Raspberry Pi RP2040" src="https://img.shields.io/badge/Raspberry%20Pi%20RP2040-A22846?style=flat-square&logo=raspberrypi&logoColor=white" /> <img alt="SGP41" src="https://img.shields.io/badge/SGP41%20Gas%20Sensor-16A34A?style=flat-square" /> <img alt="HS-S38P" src="https://img.shields.io/badge/HS--S38P%20Motion%20Sensor-F97316?style=flat-square" /> |
-| **Agent Beaver Clever**<br/>Deterministic Workspace Automation Agent<br/><sub>Hack The Hustle by GDGoC UM - 2nd Runner Up</sub> | Agentic workspace automation system that converts messy chats and transcripts into reviewed tasks, events, blockers, and Google Workspace actions. | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img alt="Gemini 1.5 Flash" src="https://img.shields.io/badge/Gemini%201.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" /> <img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" /> <img alt="Google Calendar" src="https://img.shields.io/badge/Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" /> <img alt="Google Drive" src="https://img.shields.io/badge/Drive-34A853?style=flat-square&logo=googledrive&logoColor=white" /> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> |
+| **Agent Beaver Clever**<br/>Deterministic Workspace Automation Agent<br/><sub>Hack The Hustle by GDGoC UM - 2nd Runner Up</sub> | Agentic workspace automation system that converts messy chats and transcripts into reviewed tasks, events, blockers, and Google Workspace actions. | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img alt="Gemini 3.1 Flash" src="https://img.shields.io/badge/Gemini%203.1%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" /> <img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" /> <img alt="Google Calendar" src="https://img.shields.io/badge/Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" /> <img alt="Google Drive" src="https://img.shields.io/badge/Drive-34A853?style=flat-square&logo=googledrive&logoColor=white" /> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> |
 
 ## Tech Stack
 
@@ -59,37 +59,40 @@
 ## Competition Highlights
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>UM CodeFest</h3>
-      <img alt="2026" src="https://img.shields.io/badge/Year-2026-111827?style=for-the-badge" />
-      <img alt="Champion" src="https://img.shields.io/badge/Result-Champion-f59e0b?style=for-the-badge" />
-    </td>
-    <td width="50%" align="center">
-      <h3>Google KitaHack</h3>
-      <img alt="2026" src="https://img.shields.io/badge/Year-2026-111827?style=for-the-badge" />
-      <img alt="1st Runner Up" src="https://img.shields.io/badge/Result-1st%20Runner%20Up-06b6d4?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>UM MakerXpreneur</h3>
-      <img alt="2026" src="https://img.shields.io/badge/Year-2026-111827?style=for-the-badge" />
-      <img alt="1st Runner Up" src="https://img.shields.io/badge/Result-1st%20Runner%20Up-06b6d4?style=for-the-badge" />
-    </td>
-    <td width="50%" align="center">
-      <h3>Hack The Hustle by GDGoC UM</h3>
-      <img alt="2026" src="https://img.shields.io/badge/Year-2026-111827?style=for-the-badge" />
-      <img alt="2nd Runner Up" src="https://img.shields.io/badge/Result-2nd%20Runner%20Up-a855f7?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>UMSprouts 6.0: Entrepreneurial Talent Scouting</h3>
-      <img alt="2026" src="https://img.shields.io/badge/Year-2026-111827?style=for-the-badge" />
-      <img alt="Top 4 Finalist" src="https://img.shields.io/badge/Result-Top%204%20Finalist-22c55e?style=for-the-badge" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Achievement</th>
+      <th align="center">Year</th>
+      <th align="center">Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>UM CodeFest</strong></td>
+      <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
+      <td align="center"><img alt="Champion" src="https://img.shields.io/badge/Champion-f59e0b?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td><strong>Google KitaHack</strong></td>
+      <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
+      <td align="center"><img alt="1st Runner Up" src="https://img.shields.io/badge/1st%20Runner%20Up-06b6d4?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td><strong>UM MakerXpreneur</strong></td>
+      <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
+      <td align="center"><img alt="1st Runner Up" src="https://img.shields.io/badge/1st%20Runner%20Up-06b6d4?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td><strong>Hack The Hustle by GDGoC UM</strong></td>
+      <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
+      <td align="center"><img alt="2nd Runner Up" src="https://img.shields.io/badge/2nd%20Runner%20Up-a855f7?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td><strong>UMSprouts 6.0: Entrepreneurial Talent Scouting</strong></td>
+      <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
+      <td align="center"><img alt="Top 4 Finalist" src="https://img.shields.io/badge/Top%204%20Finalist-22c55e?style=for-the-badge" /></td>
+    </tr>
+  </tbody>
 </table>
 
 ## Contribution Snake
