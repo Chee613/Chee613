@@ -81,6 +81,11 @@
       <td align="center"><img alt="Champion" src="https://img.shields.io/badge/Champion-f59e0b?style=for-the-badge" /></td>
     </tr>
     <tr>
+      <td><strong>MUBA Blockchain Hackathon</strong></td>
+      <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
+      <td align="center"><img alt="1st Runner Up" src="https://img.shields.io/badge/1st%20Runner%20Up-06b6d4?style=for-the-badge" /></td>
+    </tr>
+    <tr>
       <td><strong>Google KitaHack</strong></td>
       <td align="center"><img alt="2026" src="https://img.shields.io/badge/2026-111827?style=for-the-badge" /></td>
       <td align="center"><img alt="1st Runner Up" src="https://img.shields.io/badge/1st%20Runner%20Up-06b6d4?style=for-the-badge" /></td>
